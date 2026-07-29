@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NZ+Guides&display=swap');
+
+:root{
+--texto: "Playwrite NZ Guides", cursive;
+--titulo: "Archivo Black", sans-serif;
+color: rgb(255, 0, 0);
+color:cyan;
+
+}
